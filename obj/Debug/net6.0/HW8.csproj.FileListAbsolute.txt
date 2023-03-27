@@ -1,0 +1,16 @@
+C:\REPO\HW8\bin\Debug\net6.0\HW8.exe
+C:\REPO\HW8\bin\Debug\net6.0\HW8.deps.json
+C:\REPO\HW8\bin\Debug\net6.0\HW8.runtimeconfig.json
+C:\REPO\HW8\bin\Debug\net6.0\HW8.dll
+C:\REPO\HW8\bin\Debug\net6.0\ref\HW8.dll
+C:\REPO\HW8\bin\Debug\net6.0\HW8.pdb
+C:\REPO\HW8\obj\Debug\net6.0\HW8.GlobalUsings.g.cs
+C:\REPO\HW8\obj\Debug\net6.0\HW8.csproj.AssemblyReference.cache
+C:\REPO\HW8\obj\Debug\net6.0\HW8.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\HW8\obj\Debug\net6.0\HW8.AssemblyInfoInputs.cache
+C:\REPO\HW8\obj\Debug\net6.0\HW8.AssemblyInfo.cs
+C:\REPO\HW8\obj\Debug\net6.0\HW8.csproj.CoreCompileInputs.cache
+C:\REPO\HW8\obj\Debug\net6.0\HW8.dll
+C:\REPO\HW8\obj\Debug\net6.0\ref\HW8.dll
+C:\REPO\HW8\obj\Debug\net6.0\HW8.pdb
+C:\REPO\HW8\obj\Debug\net6.0\HW8.genruntimeconfig.cache
